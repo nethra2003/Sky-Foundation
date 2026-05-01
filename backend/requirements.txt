@@ -1,0 +1,5 @@
+Flask
+Flask_SQLAlchemy
+Flask_Cors
+Flask_Bcrypt
+itsdangerous
