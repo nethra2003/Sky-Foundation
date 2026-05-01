@@ -201,3 +201,11 @@ This project is part of the **CertifyMe Full Stack Intern Assessment**. The repo
 - Delete permanently from the database
 - Remove from UI immediately **without page refresh**
 - Only the creator admin can delete their own opportunity
+
+Run project:
+
+cd backend
+python app.py
+
+Open:
+http://127.0.0.1:5000
